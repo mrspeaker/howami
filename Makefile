@@ -8,5 +8,3 @@ clean:
 
 install: haimake
 	mv bin/howami /usr/local/bin/
-
-
