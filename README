@@ -1,0 +1,18 @@
+HOWAMI(1)       Mr Speaker Command Manual       HOWAMI(1)
+
+NAME
+    howami -- display effective user sentiment
+
+SYNOPSIS
+    howami
+
+DESCRIPTION
+     The howami utility displays your effective sentiment as an adjective.
+
+EXIT STATUS
+     The howami utility exits 0 on success, and >0 if an error occurs.
+
+SEE ALSO
+     whoami(1)
+
+MRS                     May 17, 2011                    MRS
